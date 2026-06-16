@@ -179,3 +179,7 @@ hr-analytics-dashboard/
 Results
 
 The analysis identified key factors contributing to employee attrition, including overtime, job satisfaction, age, and department-specific challenges. These insights provide a foundation for data-driven workforce planning and employee retention strategies.
+
+Conclusion
+
+This project demonstrates the application of data analytics techniques to HR data in order to understand employee behavior and workforce trends. By identifying attrition drivers and employee risk factors, organizations can implement targeted interventions that improve retention, employee satisfaction, and overall business performance.
